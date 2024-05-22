@@ -1,0 +1,12 @@
+.aboutus{
+    height: 380px;
+}
+.carouselimage{
+    background-position: center center;
+    background-size: cover;
+    height: 90vh;
+}
+.ok{
+    position: fixed;
+    
+}
